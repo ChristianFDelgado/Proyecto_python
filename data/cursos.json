@@ -1,0 +1,140 @@
+[
+  {
+    "nombre_ruta": "Java",
+    "fecha_inicio": "2023-12-10",
+    "fecha_fin": "2024-10-9",
+    "horario": {
+      "lunes": [
+        "6:00-9:30"
+      ],
+      "martes": [
+        "6:00-9:30"
+      ],
+      "miercoles": [
+        "6:00-9:30"
+      ],
+      "jueves": [
+        "6:00-9:30"
+      ],
+      "viernes": [
+        "6:00-9:30"
+      ]
+    },
+    "fundamentos": [
+      "Introduccion",
+      "Pesint",
+      "Python"
+    ],
+    "programacion_web": [
+      "HTML",
+      "CSS",
+      "Boostrap"
+    ],
+    "programacion_formal": [
+      "Java",
+      "Javascript",
+      "C#"
+    ],
+    "bases_de_datos": [
+      "Mysql",
+      "Mongodb"
+    ],
+    "backend": [
+      "NodeJS",
+      "Spring Boot",
+      "Express"
+    ]
+  },
+  {
+    "nombre_ruta": "NodeJS",
+    "fecha_inicio": "2023-11-10",
+    "fecha_fin": "2024-09-25",
+    "horario": {
+      "lunes": [
+        "10:00-1:30"
+      ],
+      "martes": [
+        "10:00-1:30"
+      ],
+      "miercoles": [
+        "10:00-1:30"
+      ],
+      "jueves": [
+        "10:00-1:30"
+      ],
+      "viernes": [
+        "10:00-1:30"
+      ]
+    },
+    "fundamentos": [
+      "Introduccion",
+      "Pesint",
+      "Python"
+    ],
+    "programacion_web": [
+      "HTML",
+      "CSS",
+      "Boostrap"
+    ],
+    "programacion_formal": [
+      "Java",
+      "Javascript",
+      "C#"
+    ],
+    "bases_de_datos": [
+      "Mysql",
+      "Mongodb"
+    ],
+    "backend": [
+      "NodeJS",
+      "Spring Boot",
+      "Express"
+    ]
+  },
+  {
+    "nombre_ruta": "NoteCore",
+    "fecha_inicio": "2024-01-10",
+    "fecha_fin": "2024-11-09",
+    "horario": {
+      "lunes": [
+        "2:00-5:30"
+      ],
+      "martes": [
+        "2:00-5:30"
+      ],
+      "miercoles": [
+        "2:00-5:30"
+      ],
+      "jueves": [
+        "2:00-5:30"
+      ],
+      "viernes": [
+        "2:00-5:30"
+      ]
+    },
+    "fundamentos": [
+      "Introduccion",
+      "Pesint",
+      "Python"
+    ],
+    "programacion_web": [
+      "HTML",
+      "CSS",
+      "Boostrap"
+    ],
+    "programacion_formal": [
+      "Java",
+      "Javascript",
+      "C#"
+    ],
+    "bases_de_datos": [
+      "Mysql",
+      "Mongodb"
+    ],
+    "backend": [
+      "NodeJS",
+      "Spring Boot",
+      "Express"
+    ]
+  }
+]

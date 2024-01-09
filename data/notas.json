@@ -1,0 +1,45 @@
+[
+  {
+    "cedula": "1234",
+    "nombre_ruta": "Java",
+    "notas": {
+      "fundamentos": {
+        "estado": "Aprobado",
+        "prueba_teorica": 90.0,
+        "prueba_practica": 90.0,
+        "quices": 80.0,
+        "nota_modulo": 89.0
+      },
+      "programacion_web": {
+        "estado": "En Riesgo",
+        "prueba_teorica": 60.0,
+        "prueba_practica": 50.0,
+        "quices": 40.0,
+        "nota_modulo": 55.0
+      },
+      "programacion_formal": {
+        "estado": "Aprobado",
+        "prueba_teorica": 60.0,
+        "prueba_practica": 90.0,
+        "quices": 90.0,
+        "nota_modulo": 72.0
+      },
+      "bases_de_datos": {
+        "estado": "Aprobado",
+        "prueba_teorica": 80.0,
+        "prueba_practica": 80.0,
+        "quices": 90.0,
+        "nota_modulo": 81.0
+      },
+      "backend": {
+        "estado": "Aprobado",
+        "prueba_teorica": 70.0,
+        "prueba_practica": 80.0,
+        "quices": 90.0,
+        "nota_modulo": 75.0
+      }
+    },
+    "nota_final": 76.2,
+    "estado": "Aprobado"
+  }
+]

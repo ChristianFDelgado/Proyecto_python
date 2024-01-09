@@ -1,0 +1,28 @@
+[
+  {
+    "cedula": "1234",
+    "nombre_estudiante": "neider",
+    "profesor_asignado": "Camilo",
+    "curso": "Java",
+    "horario_curso": {
+      "lunes": [
+        "6:00-9:30"
+      ],
+      "martes": [
+        "6:00-9:30"
+      ],
+      "miercoles": [
+        "6:00-9:30"
+      ],
+      "jueves": [
+        "6:00-9:30"
+      ],
+      "viernes": [
+        "6:00-9:30"
+      ]
+    },
+    "fecha_inicio": "2023-12-10",
+    "fecha_fin": "2024-10-9",
+    "nombre_aula": "Artemis"
+  }
+]

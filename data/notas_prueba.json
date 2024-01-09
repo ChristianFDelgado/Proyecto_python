@@ -1,0 +1,18 @@
+[
+  {
+    "cedula": "1234",
+    "nombre": "neider",
+    "apellidos": "delgado",
+    "prueba_practica": 89.0,
+    "prueba_teorica": 90.0,
+    "estado": "Aprobado"
+  },
+  {
+    "cedula": "1095840288",
+    "nombre": "christian",
+    "apellidos": "delgado",
+    "prueba_practica": 40.0,
+    "prueba_teorica": 50.0,
+    "estado": "Reprobado"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "cedula": "1095840288",
+    "nombre": "christian",
+    "apellidos": "delgado",
+    "direccion": "bucaramanga",
+    "acudiente": "christian",
+    "telefono": "3184280664",
+    "estado": "Inscrito"
+  },
+  {
+    "cedula": "1234",
+    "nombre": "neider",
+    "apellidos": "delgado",
+    "direccion": "los santos",
+    "acudiente": "jesus",
+    "telefono": "3214",
+    "estado": "Inscrito"
+  }
+]

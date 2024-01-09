@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Camilo",
+    "apellidos": "Rodriguez",
+    "disponibilidad": {
+      "lunes": [
+        "6:00-9:30",
+        "2:00-5:30"
+      ],
+      "martes": [
+        "6:00-9:30",
+        "2:00-5:30"
+      ],
+      "miercoles": [
+        "6:00-9:30",
+        "2:00-5:30"
+      ],
+      "jueves": [
+        "6:00-9:30",
+        "2:00-5:30"
+      ],
+      "viernes": [
+        "6:00-9:30",
+        "2:00-5:30"
+      ]
+    },
+    "cursos_asignados": [
+      {
+        "nombre_curso": "Java",
+        "fecha_inicio": "2023-12-10",
+        "fecha_fin": "2024-10-9",
+        "horario_curso": {
+          "lunes": [
+            "6:00-9:30"
+          ],
+          "martes": [
+            "6:00-9:30"
+          ],
+          "miercoles": [
+            "6:00-9:30"
+          ],
+          "jueves": [
+            "6:00-9:30"
+          ],
+          "viernes": [
+            "6:00-9:30"
+          ]
+        }
+      }
+    ]
+  }
+]
